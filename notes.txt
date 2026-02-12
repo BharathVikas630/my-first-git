@@ -1,2 +1,2 @@
 The change was made directly on Git hub
-this change is for pull request practice
+changed from github side
